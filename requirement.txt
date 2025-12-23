@@ -1,0 +1,17 @@
+# Web App Framework
+streamlit>=1.30,<2.0
+
+# Core Data Science Libraries
+numpy>=1.23,<2.0
+pandas>=1.5,<3.0
+
+# Visualization
+matplotlib>=3.6,<4.0
+seaborn>=0.12,<1.0
+
+# Machine Learning
+scikit-learn>=1.2,<2.0
+scipy>=1.9,<2.0
+# Data Handling
+sqlalchemy>=1.4,<2.0
+psycopg2-binary>=2.9,<3.0
